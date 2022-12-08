@@ -1,2 +1,1 @@
-# GDSC1
-first gdsc session
+hello world
